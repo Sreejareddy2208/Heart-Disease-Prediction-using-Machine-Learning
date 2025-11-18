@@ -17,14 +17,23 @@ ALGORITHMS USED
 
 This project includes 10 machine learning algorithms:
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 Gaussian Naive Bayes
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Support Vector Machine (SVM)
+
 Gradient Boosting Classifier
+
 AdaBoost Classifier
+
 XGBoost Classifier
+
 Each model is evaluated using accuracy score and classification report.
 
 TECH STACK
