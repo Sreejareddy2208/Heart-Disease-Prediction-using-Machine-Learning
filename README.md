@@ -83,14 +83,12 @@ MODEL EVALUATION
 
 Each model displays:
 Precision
+
 • Recall
+
 • F1-score
+
 • Classification report
 
 This allows you to compare models easily.
-• Precision
-• Recall
-• F1-score
-• Classification report
 
-This allows you to compare models easily.
