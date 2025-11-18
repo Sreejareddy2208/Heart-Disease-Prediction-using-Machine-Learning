@@ -82,6 +82,7 @@ View model output and evaluation
 MODEL EVALUATION
 
 Each model displays:
+
 Precision
 
 • Recall
